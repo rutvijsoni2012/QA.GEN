@@ -1,0 +1,6 @@
+{
+  "name": "Odoo-QA AI Autopilot",
+  "description": "An AI-powered agent for Odoo QA engineers to generate high-quality Playwright Page Object Model (POM) scripts from functional requirements and test steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
